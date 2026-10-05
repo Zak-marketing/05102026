@@ -1,0 +1,1258 @@
+{
+  "appName": {
+    "en": "AuraSlim Pro",
+    "fr": "AuraSlim Pro"
+  },
+  "navWatch": {
+    "en": "Smartwatch",
+    "fr": "Montre Connectée"
+  },
+  "projectedWeight4w": {
+    "en": "Projected Weight (4 wks)",
+    "fr": "Poids Projeté (4 sem.)"
+  },
+  "projectedWeightSubtitle": {
+    "en": "Linear regression projection",
+    "fr": "Projection par régression linéaire"
+  },
+  "weeklyTrendRate": {
+    "en": "Weekly Pace",
+    "fr": "Rythme hebdomadaire"
+  },
+  "projectedGoalDate": {
+    "en": "Estimated goal reached on",
+    "fr": "Objectif atteint vers le"
+  },
+  "projectedBadge": {
+    "en": "+4 wks Projection",
+    "fr": "Projection +4 sem."
+  },
+  "proPlanBadge": {
+    "en": "AuraSlim VIP Pro",
+    "fr": "AuraSlim VIP Pro"
+  },
+  "paymentPrice": {
+    "en": "$9.99",
+    "fr": "9,99 €"
+  },
+  "payApplePay": {
+    "en": "Apple Pay (1-Tap)",
+    "fr": "Apple Pay (1 Clic)"
+  },
+  "cardExpiry": {
+    "en": "MM / YY",
+    "fr": "MM / AA"
+  },
+  "cardCvc": {
+    "en": "CVC",
+    "fr": "CVC"
+  },
+  "voiceInputTitle": {
+    "en": "Voice Measurement Input",
+    "fr": "Saisie Vocale des Mesures"
+  },
+  "voiceInputListening": {
+    "en": "Listening... Speak now",
+    "fr": "Écoute en cours... Parlez maintenant"
+  },
+  "voiceInputHint": {
+    "en": "Say e.g.: '72.5 kg, waist 80, 2.5 liters of water'",
+    "fr": "Dites par exemple : « 72.5 kilos, tour de taille 80, 2.5 litres d'eau »"
+  },
+  "voiceInputStop": {
+    "en": "Stop",
+    "fr": "Terminer"
+  },
+  "voiceMicTooltip": {
+    "en": "Enter with microphone",
+    "fr": "Saisir au micro"
+  },
+  "voiceNotSupported": {
+    "en": "Speech recognition not supported in this browser.",
+    "fr": "Microphone non supporté sur ce navigateur (utilisez Chrome, Safari ou Edge)."
+  },
+  "nutritionPdfBannerTitle": {
+    "en": "Personal Nutrition Report",
+    "fr": "Bilan nutritionnel personnel"
+  },
+  "nutritionPdfBannerBadge": {
+    "en": "PDF AVAILABLE",
+    "fr": "PDF DISPONIBLE"
+  },
+  "nutritionPdfBannerDesc": {
+    "en": "Review recorded measurements and meals. Estimates do not replace medical advice.",
+    "fr": "Consultez les mesures et repas enregistrés. Les estimations ne constituent pas un avis médical."
+  },
+  "nutritionPdfBannerBtn": {
+    "en": "Generate Dietitian Report (PDF)",
+    "fr": "Générer mon Bilan Nutritionniste (PDF)"
+  },
+  "periodsOfDayTitle": {
+    "en": "Meal Times",
+    "fr": "Périodes de la journée"
+  },
+  "clickToChooseFoodHint": {
+    "en": "Click + to scroll down and pick foods",
+    "fr": "Cliquez sur + pour descendre choisir vos aliments"
+  },
+  "periodBreakfast": {
+    "en": "Breakfast",
+    "fr": "Matin"
+  },
+  "periodLunch": {
+    "en": "Lunch",
+    "fr": "Midi"
+  },
+  "periodDinner": {
+    "en": "Dinner",
+    "fr": "Soir"
+  },
+  "periodSnack": {
+    "en": "Snack",
+    "fr": "Collation"
+  },
+  "chooseBtn": {
+    "en": "Choose",
+    "fr": "Choisir"
+  },
+  "keyOptionScanBadge": {
+    "en": "⭐ Key Feature · Instant Scan",
+    "fr": "⭐ Option Clé · Scan Instantané"
+  },
+  "scanPlateDescription": {
+    "en": "Snap a photo of your plate: AI automatically recognizes foods, portions and calories.",
+    "fr": "Prenez votre assiette en photo : l'IA reconnaît automatiquement les aliments, portions et calories."
+  },
+  "targetedMealLabel": {
+    "en": "Target meal:",
+    "fr": "Repas ciblé :"
+  },
+  "takePlatePhotoBtn": {
+    "en": "📸 Take a photo",
+    "fr": "📸 Prendre en photo"
+  },
+  "directBadge": {
+    "en": "Direct",
+    "fr": "Direct"
+  },
+  "deviceCameraDesc": {
+    "en": "Camera on your smartphone or PC",
+    "fr": "Appareil photo de votre smartphone ou PC"
+  },
+  "galleryPhotosBtn": {
+    "en": "Photo gallery",
+    "fr": "Galerie photos"
+  },
+  "importExistingPhotoDesc": {
+    "en": "Import a saved photo",
+    "fr": "Importer une photo déjà enregistrée"
+  },
+  "foodIdeasFor": {
+    "en": "Food suggestions for",
+    "fr": "Idées d'aliments pour le"
+  },
+  "searchFoodPlaceholder": {
+    "en": "Search food (e.g. oats, chicken, salmon, rice, soup...)",
+    "fr": "Rechercher un aliment (ex: avoine, poulet, saumon, riz, soupe...)"
+  },
+  "todayLoggedMealsTitle": {
+    "en": "Meals logged today",
+    "fr": "Repas enregistrés aujourd'hui"
+  },
+  "totalAlimentsSuffix": {
+    "en": "in total",
+    "fr": "au total"
+  },
+  "noMealsLoggedToday": {
+    "en": "No meals logged today. Click the \"+\" button on a meal to start.",
+    "fr": "Aucun repas enregistré aujourd'hui. Cliquez sur le bouton '+' d'un repas pour commencer."
+  },
+  "mealsHistoryTitle": {
+    "en": "Meal History",
+    "fr": "Historique des repas"
+  },
+  "noMealsHistory": {
+    "en": "No meals logged yet.",
+    "fr": "Aucun repas enregistré."
+  },
+  "photoEvolutionTitle": {
+    "en": "Photo Progress",
+    "fr": "Évolution en photos"
+  },
+  "photoEvolutionSubtitle": {
+    "en": "Day 1 and weigh-in photos saved on this device.",
+    "fr": "Jour 1 et photos de pesées enregistrées sur cet appareil."
+  },
+  "addPhotoBtn": {
+    "en": "Add a photo",
+    "fr": "Ajouter une photo"
+  },
+  "generateVideoBtn": {
+    "en": "Generate my video",
+    "fr": "Générer ma vidéo"
+  },
+  "galleryCountLabel": {
+    "en": "Gallery",
+    "fr": "Galerie"
+  },
+  "compareBeforeAfterTitle": {
+    "en": "Compare Before & After",
+    "fr": "Comparer avant / après"
+  },
+  "dragCenterToCompareHint": {
+    "en": "Drag the central slider left or right ◀ ▶",
+    "fr": "Glissez le curseur au centre vers la gauche ou la droite ◀ ▶"
+  },
+  "photoBeforeLabel": {
+    "en": "Before photo",
+    "fr": "Photo avant"
+  },
+  "photoAfterLabel": {
+    "en": "After photo",
+    "fr": "Photo après"
+  },
+  "badgeAvant": {
+    "en": "BEFORE",
+    "fr": "AVANT"
+  },
+  "badgeApres": {
+    "en": "AFTER",
+    "fr": "APRÈS"
+  },
+  "dayOneLabel": {
+    "en": "Day 1",
+    "fr": "Jour 1"
+  },
+  "weekAbbrev": {
+    "en": "Week",
+    "fr": "Semaine"
+  },
+  "freeBadge": {
+    "en": "Free",
+    "fr": "Gratuit"
+  },
+  "premiumBadge": {
+    "en": "Premium",
+    "fr": "Premium"
+  },
+  "disclaimerFooter": {
+    "en": "AuraSlim · Personal tracker: results and AI analyses are estimates.",
+    "fr": "AuraSlim · Suivi personnel : les résultats et les analyses IA restent des estimations."
+  },
+  "offersBtn": {
+    "en": "Offers",
+    "fr": "Offres"
+  },
+  "newPhotoModalTitle": {
+    "en": "New photo",
+    "fr": "Nouvelle photo"
+  },
+  "newPhotoModalSubtitle": {
+    "en": "Front required. Side and back optional.",
+    "fr": "Face obligatoire. Profil et dos facultatifs."
+  },
+  "photoAngleFace": {
+    "en": "Front",
+    "fr": "Face"
+  },
+  "photoAngleProfile": {
+    "en": "Side",
+    "fr": "Profil"
+  },
+  "photoAngleBackLabel": {
+    "en": "Back",
+    "fr": "Dos"
+  },
+  "notesOptionalPlaceholder": {
+    "en": "Optional notes",
+    "fr": "Notes facultatives"
+  },
+  "cancelBtn": {
+    "en": "Cancel",
+    "fr": "Annuler"
+  },
+  "saveBtn": {
+    "en": "Save",
+    "fr": "Enregistrer"
+  },
+  "unlimitedScanMealOption": {
+    "en": "Unlimited AI Meal Scanner Option",
+    "fr": "Option Scan Repas IA illimité"
+  },
+  "activateScanOption": {
+    "en": "Activate Meal Scan Option (€3.99)",
+    "fr": "Activer l'Option Scan (3,99 €)"
+  },
+  "plateRecognizedSuccess": {
+    "en": "Meal successfully recognized",
+    "fr": "Plat reconnu avec succès"
+  },
+  "estimatedPortion": {
+    "en": "Estimated portion",
+    "fr": "Portion estimée"
+  },
+  "saveMealToLog": {
+    "en": "Save this meal to my journal",
+    "fr": "Enregistrer ce plat dans mon journal"
+  },
+  "recognizedFoodsAi": {
+    "en": "Recognized foods (AI estimate)",
+    "fr": "Aliments reconnus (estimation IA)"
+  },
+  "listenFoods": {
+    "en": "Listen to foods",
+    "fr": "Écouter les aliments"
+  },
+  "photoFitCover": {
+    "en": "Fill 100%",
+    "fr": "Remplir 100%"
+  },
+  "photoFitContain": {
+    "en": "Fit full photo",
+    "fr": "Photo entière"
+  },
+  "photoWaitingSecond": {
+    "en": "After photo coming soon",
+    "fr": "Photo après à venir"
+  },
+  "photoWaitingSecondDesc": {
+    "en": "Add your next check-in weigh photo to see your before/after transformation side by side.",
+    "fr": "Ajoutez votre prochaine pesée en photo pour comparer votre évolution physique avant/après."
+  },
+  "photoTakeSecondBtn": {
+    "en": "Add next check-in photo",
+    "fr": "Ajouter la photo suivante"
+  },
+  "photoFromGallery": {
+    "en": "Gallery",
+    "fr": "Galerie"
+  },
+  "photoFromCamera": {
+    "en": "Camera",
+    "fr": "Caméra"
+  },
+  "photoFreeLimitNotice": {
+    "en": "Two additional check-in photos included for free after Day 1.",
+    "fr": "Deux photos supplémentaires de pesées ou de progression offertes après Jour 1."
+  },
+  "photoDragHintBottom": {
+    "en": "Slide the center handle left or right ◀ ▶",
+    "fr": "Glissez le curseur au milieu vers la gauche ou la droite ◀ ▶"
+  },
+  "photoDayOne": {
+    "en": "Day 1",
+    "fr": "Jour 1"
+  },
+  "accountSettingsTitle": {
+    "en": "Settings & Privacy",
+    "fr": "Paramètres et confidentialité"
+  },
+  "accountMyPlan": {
+    "en": "My Plan",
+    "fr": "Mon offre"
+  },
+  "accountPlanFree": {
+    "en": "Free Discovery",
+    "fr": "Gratuite"
+  },
+  "accountPlanDesc": {
+    "en": "Two check-in photos after Day 1 are included for free. Premium options require Stripe confirmation.",
+    "fr": "Deux photos de suivi après la photo Jour 1 sont incluses gratuitement. Les options Premium nécessitent une confirmation de Stripe."
+  },
+  "accountViewOffersBtn": {
+    "en": "View plans from €3.99 and €6.99/mo",
+    "fr": "Voir les offres à 3,99 € et 6,99 €/mois"
+  },
+  "accountTrialTitle": {
+    "en": "AuraSlim Trial Code",
+    "fr": "Code d’essai fourni par AuraSlim"
+  },
+  "accountTrialPlaceholder": {
+    "en": "Enter trial code",
+    "fr": "Saisir le code d’essai"
+  },
+  "accountTrialBtn": {
+    "en": "Activate Trial",
+    "fr": "Activer l’essai"
+  },
+  "accountTrialSuccess": {
+    "en": "Your temporary free trial is now active on this device.",
+    "fr": "Votre accès gratuit temporaire est activé sur cet appareil."
+  },
+  "accountShareAdminTitle": {
+    "en": "Optional Sync with Coach/Admin",
+    "fr": "Partage facultatif avec l’administrateur"
+  },
+  "accountShareAdminDesc": {
+    "en": "If enabled, your name, email, phone, country, goal, weigh-ins, meals, calories, hydration and photo count are synced to AuraSlim.",
+    "fr": "Si vous l’activez, votre nom, email, téléphone, pays, objectif, pesées, menus, calories, hydratation et nombre de photos seront envoyés au serveur AuraSlim pour votre suivi."
+  },
+  "accountShareAdminConsent": {
+    "en": "Allow coaching sync with server",
+    "fr": "Autoriser le partage de mon suivi"
+  },
+  "accountLangTitle": {
+    "en": "Language & Currency",
+    "fr": "Langue et devise"
+  },
+  "accountLangDesc": {
+    "en": "Application language and billing currency, customizable anytime.",
+    "fr": "Langue et devise de l'application, modifiables à tout moment."
+  },
+  "accountAppLanguage": {
+    "en": "Application Language",
+    "fr": "Langue de l'application"
+  },
+  "accountCurrency": {
+    "en": "Preferred Currency",
+    "fr": "Devise souhaitée"
+  },
+  "accountStripeNotice": {
+    "en": "Actual prices and billing currency are confirmed on Stripe.",
+    "fr": "Le prix réel et la devise de facturation sont confirmés sur la page Stripe."
+  },
+  "accountPatternTitle": {
+    "en": "App Lock",
+    "fr": "Verrouillage local"
+  },
+  "accountPatternDesc": {
+    "en": "Optional pattern lock to secure access on this device.",
+    "fr": "Schéma facultatif pour masquer l'écran sur cet appareil. Les données du navigateur restent sur cet appareil."
+  },
+  "accountPatternCreateBtn": {
+    "en": "Set or Change Pattern",
+    "fr": "Créer ou changer mon schéma"
+  },
+  "accountPatternLockBtn": {
+    "en": "Lock Now",
+    "fr": "Verrouiller"
+  },
+  "accountPatternDisableBtn": {
+    "en": "Disable Lock",
+    "fr": "Désactiver"
+  },
+  "accountWatchTitle": {
+    "en": "Smartwatch & Activity",
+    "fr": "Montre et activité"
+  },
+  "accountDataTitle": {
+    "en": "My Data",
+    "fr": "Mes données"
+  },
+  "accountDataDesc": {
+    "en": "Photos, weigh-ins and meals remain stored in this browser. Remember to export your data regularly.",
+    "fr": "Photos, pesées et menus restent dans le stockage de ce navigateur. Pensez à exporter vos données régulièrement."
+  },
+  "accountExportBtn": {
+    "en": "Export My Data (JSON)",
+    "fr": "Exporter mes données"
+  },
+  "accountPdfReportBtn": {
+    "en": "View PDF Health Report",
+    "fr": "Voir mon bilan PDF"
+  },
+  "accountDeleteDataBtn": {
+    "en": "Erase All Data",
+    "fr": "Effacer mes données"
+  },
+  "accountDeleteDataConfirm": {
+    "en": "Permanently delete all your local AuraSlim data on this device?",
+    "fr": "Effacer définitivement toutes vos données locales AuraSlim sur cet appareil ?"
+  },
+  "pdfReportTitle": {
+    "en": "Personal Progress Report",
+    "fr": "Bilan personnel de progression"
+  },
+  "pdfReportSubtitle": {
+    "en": "Your Personal Progress Report",
+    "fr": "Votre bilan personnel de progression"
+  },
+  "pdfStart": {
+    "en": "Starting",
+    "fr": "Au départ"
+  },
+  "pdfLatest": {
+    "en": "Latest Weigh-in",
+    "fr": "Dernière pesée"
+  },
+  "pdfChange": {
+    "en": "Total Change",
+    "fr": "Évolution"
+  },
+  "pdfGoal": {
+    "en": "Your Target",
+    "fr": "Votre objectif"
+  },
+  "pdfWeightTrend": {
+    "en": "Weight Trend & Check-ins",
+    "fr": "Évolution des pesées"
+  },
+  "pdfMeasurements": {
+    "en": "Measurements & Goals",
+    "fr": "Mesures et objectifs"
+  },
+  "pdfWeightLog": {
+    "en": "Weigh-in Log",
+    "fr": "Journal des pesées"
+  },
+  "pdfMealLog": {
+    "en": "Logged Meals",
+    "fr": "Repas enregistrés"
+  },
+  "pdfDownloadBtn": {
+    "en": "Download PDF Report",
+    "fr": "Télécharger le bilan PDF"
+  },
+  "pdfPreparing": {
+    "en": "Preparing PDF Report…",
+    "fr": "Préparation du PDF…"
+  },
+  "notificationAllowed": {
+    "en": "Notifications enabled successfully",
+    "fr": "Notifications activées avec succès"
+  },
+  "notificationDenied": {
+    "en": "Notifications blocked. Please allow them in browser settings.",
+    "fr": "Notifications bloquées. Autorisez-les dans les réglages du navigateur."
+  },
+  "notificationUnsupported": {
+    "en": "This browser does not support local notifications.",
+    "fr": "Ce navigateur ne gère pas les notifications locales."
+  },
+  "justNow": {
+    "en": "Just now",
+    "fr": "À l'instant"
+  },
+  "reminderNotificationBody": {
+    "en": "Time to log your data on AuraSlim Pro!",
+    "fr": "Il est l'heure d'enregistrer vos données sur AuraSlim Pro !"
+  },
+  "frequencyDaily": {
+    "en": "Daily",
+    "fr": "Chaque jour"
+  },
+  "frequencyHourly": {
+    "en": "Every {min} min",
+    "fr": "Toutes les {min} min"
+  },
+  "frequencyWeekly": {
+    "en": "Every Sunday",
+    "fr": "Chaque dimanche"
+  },
+  "waterTrackerTitle": {
+    "en": "Hydration & Water Intake Tracker",
+    "fr": "Suivi d'Hydratation & Verres d'Eau"
+  },
+  "waterTargetLabel": {
+    "en": "Target",
+    "fr": "Cible"
+  },
+  "waterGoalReached": {
+    "en": "Goal Achieved!",
+    "fr": "Objectif atteint !"
+  },
+  "waterResetDay": {
+    "en": "Reset Day",
+    "fr": "Réinitialiser la journée"
+  },
+  "waterNoGlassesToday": {
+    "en": "No glasses logged today. Click +1 glass to start.",
+    "fr": "Aucun verre enregistré aujourd'hui. Cliquez sur +1 verre pour commencer."
+  },
+  "waterDeleteEntry": {
+    "en": "Delete entry",
+    "fr": "Supprimer cette prise"
+  },
+  "dailyHydrationGoalTitle": {
+    "en": "Daily Hydration Goal",
+    "fr": "Objectif d'Hydratation Quotidienne"
+  },
+  "dailyHydrationGoalDesc": {
+    "en": "Recommended: 2.0 to 3.0 Liters per day depending on your weight and activity.",
+    "fr": "Recommandé : 2.0 à 3.0 Litres par jour selon votre poids et activité."
+  },
+  "litersPerDayUnit": {
+    "en": "Liters / day",
+    "fr": "Litres / jour"
+  },
+  "waterLogsTodayTitle": {
+    "en": "Today's Water Logs:",
+    "fr": "Prises d'eau du jour :"
+  },
+  "waterEditGoalTitle": {
+    "en": "Edit Water Goal",
+    "fr": "Modifier l'objectif d'eau"
+  },
+  "sinceStart": {
+    "en": "since start",
+    "fr": "depuis le départ"
+  },
+  "weekAbbrevShort": {
+    "en": "wk",
+    "fr": "sem"
+  },
+  "remainingLabel": {
+    "en": "Remaining",
+    "fr": "Reste"
+  },
+  "globalProgress": {
+    "en": "Overall progress",
+    "fr": "Progression globale"
+  },
+  "weeklyStartWeightLabel": {
+    "en": "Week start",
+    "fr": "Départ semaine"
+  },
+  "weeklyTargetLabel": {
+    "en": "Week target",
+    "fr": "Cible semaine"
+  },
+  "weeklyProgressAchievedTitle": {
+    "en": "Progress this week",
+    "fr": "Progression cette semaine"
+  },
+  "weeklyRemainingLabel": {
+    "en": "Remaining to target",
+    "fr": "Reste vers la cible"
+  },
+  "milestoneStart": {
+    "en": "Start",
+    "fr": "Départ"
+  },
+  "milestoneCurrent": {
+    "en": "Current",
+    "fr": "Actuel"
+  },
+  "milestoneSundayTarget": {
+    "en": "Sunday target",
+    "fr": "Cible dimanche"
+  },
+  "daysUntilSundayLabel": {
+    "en": "days left until Sunday",
+    "fr": "jours restants d'ici dimanche"
+  },
+  "projected4wTitle": {
+    "en": "Indicative 4-week projection",
+    "fr": "Projection indicative à 4 semaines"
+  },
+  "projected4wSubtitle": {
+    "en": "Mathematical extrapolation based on your records, without medical value or guarantee.",
+    "fr": "Extrapolation mathématique basée sur vos relevés, sans valeur médicale ni garantie de résultat."
+  },
+  "paceLabel": {
+    "en": "Pace:",
+    "fr": "Rythme :"
+  },
+  "weekUnit": {
+    "en": "week",
+    "fr": "semaine"
+  },
+  "projectedWeight28d": {
+    "en": "Projected weight in 28 days",
+    "fr": "Poids projeté dans 28 jours"
+  },
+  "estimatedGoalDateLabel": {
+    "en": "Estimated goal date",
+    "fr": "Date estimée de l'objectif"
+  },
+  "daysUnit": {
+    "en": "days",
+    "fr": "jours"
+  },
+  "goalAchievedMaintenance": {
+    "en": "Goal achieved! Active maintenance",
+    "fr": "Objectif atteint ! Maintien actif"
+  },
+  "maintainingPace": {
+    "en": "Maintaining momentum",
+    "fr": "Maintien du rythme en cours"
+  },
+  "fitR2Label": {
+    "en": "Model fit (R²)",
+    "fr": "Ajustement aux relevés (R²)"
+  },
+  "weightHistoryTrendTitle": {
+    "en": "Weight history and trend",
+    "fr": "Historique et tendance des pesées"
+  },
+  "weightChartSubtitle": {
+    "en": "Curve of your weigh-ins, from earliest to latest.",
+    "fr": "Courbe de vos pesées, de la plus ancienne à la plus récente."
+  },
+  "chartReadingDirection": {
+    "en": "Your records read from left to right, earliest to latest.",
+    "fr": "Vos relevés se lisent de gauche à droite, du plus ancien au plus récent."
+  },
+  "goalLabel": {
+    "en": "Target",
+    "fr": "Objectif"
+  },
+  "measuredWeightLegend": {
+    "en": "Measured weight",
+    "fr": "Poids mesuré"
+  },
+  "projection4wLegend": {
+    "en": "Projection +4 wks",
+    "fr": "Projection +4 sem."
+  },
+  "goalLegend": {
+    "en": "Target",
+    "fr": "Objectif"
+  },
+  "latestWeighInLabel": {
+    "en": "Latest weigh-in:",
+    "fr": "Dernière pesée :"
+  },
+  "todayLabel": {
+    "en": "Today",
+    "fr": "Aujourd'hui"
+  },
+  "weighInsLoggedCount": {
+    "en": "logged weigh-ins",
+    "fr": "pesées enregistrées"
+  },
+  "bodyFatAbbrev": {
+    "en": "BF",
+    "fr": "MG"
+  },
+  "logWeightSubtitle": {
+    "en": "Log your daily metrics manually or directly by voice with the microphone.",
+    "fr": "Enregistrez vos métriques du jour manuellement ou directement à la voix avec le microphone."
+  },
+  "voiceListeningBadge": {
+    "en": "LISTENING",
+    "fr": "EN ÉCOUTE"
+  },
+  "dictateBtn": {
+    "en": "Dictate",
+    "fr": "Dicter"
+  },
+  "voiceStopDictation": {
+    "en": "Stop dictation",
+    "fr": "Arrêter la dictée"
+  },
+  "voiceStartDictation": {
+    "en": "Enable voice dictation",
+    "fr": "Activer la dictée vocale"
+  },
+  "bodyWeightInputLabel": {
+    "en": "Body weight (kg) *",
+    "fr": "Poids corporel (kg) *"
+  },
+  "scalePhotoOrSilhouette": {
+    "en": "Scale photo / silhouette",
+    "fr": "Photo de la pesée / silhouette"
+  },
+  "optionalBadge": {
+    "en": "Optional",
+    "fr": "Optionnel"
+  },
+  "photoSavedBadge": {
+    "en": "Photo saved",
+    "fr": "Photo enregistrée"
+  },
+  "takeScalePhotoBtn": {
+    "en": "Take a weigh-in photo",
+    "fr": "Prendre une photo de pesée"
+  },
+  "waistInputLabel": {
+    "en": "Waist circumference (cm)",
+    "fr": "Tour de taille (cm)"
+  },
+  "dictateWaist": {
+    "en": "Dictate waist circumference",
+    "fr": "Dicter le tour de taille"
+  },
+  "moodGreat": {
+    "en": "Great",
+    "fr": "Top"
+  },
+  "moodGood": {
+    "en": "Good",
+    "fr": "Bien"
+  },
+  "moodNeutral": {
+    "en": "Fair",
+    "fr": "Moyen"
+  },
+  "moodStruggling": {
+    "en": "Tough",
+    "fr": "Difficile"
+  },
+  "notesLabel": {
+    "en": "Notes or feelings",
+    "fr": "Notes ou ressentis"
+  },
+  "dictateNotes": {
+    "en": "Dictate notes",
+    "fr": "Dicter des notes"
+  },
+  "notesPlaceholder": {
+    "en": "Energy, appetite, workout...",
+    "fr": "Énergie, faim, entraînement..."
+  },
+  "twoPhotosFreeUsedNotice": {
+    "en": "Two complimentary weigh-in photos have been used. Unlock the gallery to snap your next weigh-in.",
+    "fr": "Deux photos de pesée offertes ont été utilisées. Débloquez la galerie pour photographier la prochaine pesée."
+  },
+  "videoStepDayOne": {
+    "en": "Registration (Day 1)",
+    "fr": "Inscription (Jour 1)"
+  },
+  "videoOverlayTitle": {
+    "en": "AuraSlim • Progression Video",
+    "fr": "AuraSlim • Vidéo de Progression"
+  },
+  "videoOverlaySubtitle": {
+    "en": "Photos from your personal journey",
+    "fr": "Photos de votre suivi personnel"
+  },
+  "videoInitialWeightLabel": {
+    "en": "Initial starting weight",
+    "fr": "Poids initial de départ"
+  },
+  "videoVariationLabel": {
+    "en": "Delta",
+    "fr": "Variation"
+  },
+  "videoEvolutionLabel": {
+    "en": "Progress",
+    "fr": "Évolution"
+  },
+  "videoModalTitle": {
+    "en": "Morphological Progression Video",
+    "fr": "Vidéo de Progression Morphologique"
+  },
+  "videoModalSubtitle": {
+    "en": "Compiles all your chronological photos from start to present to visualize your body transformation.",
+    "fr": "Compile toutes vos photos chronologiques du début jusqu'à aujourd'hui pour visualiser votre transformation."
+  },
+  "videoGeneratingText": {
+    "en": "Generating and encoding HD video...",
+    "fr": "Génération et encodage vidéo HD en cours..."
+  },
+  "downloadVideoBtn": {
+    "en": "Download my video",
+    "fr": "Télécharger ma vidéo"
+  },
+  "shareVideoBtn": {
+    "en": "Share",
+    "fr": "Partager"
+  },
+  "socialMediaHeading": {
+    "en": "Social Media & Messaging",
+    "fr": "Réseaux sociaux & Messageries"
+  },
+  "copyLinkBtn": {
+    "en": "Copy link",
+    "fr": "Copier lien"
+  },
+  "linkCopiedBadge": {
+    "en": "Link copied!",
+    "fr": "Lien copié !"
+  },
+  "shareMoreBtn": {
+    "en": "Share...",
+    "fr": "Réseaux..."
+  },
+  "videoShareTip": {
+    "en": "💡 Tip: download your video above to post in your Instagram stories, TikTok, or send as a file in WhatsApp / Viber conversations!",
+    "fr": "💡 Conseil : téléchargez votre vidéo ci-dessus pour la publier dans vos stories Instagram, TikTok ou l'envoyer comme fichier dans vos conversations !"
+  },
+  "videoTimelineTitle": {
+    "en": "Milestones in video",
+    "fr": "Étapes incluses dans la vidéo"
+  },
+  "videoPrivacyNotice": {
+    "en": "Your photos and video are processed locally in this browser. Export them only when you choose to share.",
+    "fr": "Vos photos et la vidéo sont traitées dans ce navigateur. Exportez-les uniquement si vous souhaitez les partager."
+  },
+  "videoLoadingPhoto": {
+    "en": "Loading photo...",
+    "fr": "Chargement de la photo..."
+  },
+  "videoCannotLoadPhotoError": {
+    "en": "A photo could not be loaded. Please check the gallery before generating the video.",
+    "fr": "Une photo ne peut pas être chargée. Vérifiez les photos de la galerie avant de générer la vidéo."
+  },
+  "videoRecorderNotSupportedError": {
+    "en": "This browser does not support WebM video export. You can view your photos below.",
+    "fr": "Ce navigateur ne permet pas d'exporter la vidéo WebM. Vous pouvez visualiser vos photos ci-dessous."
+  },
+  "videoEmptyError": {
+    "en": "Generated video is empty. Please try with another browser.",
+    "fr": "La vidéo générée est vide. Réessayez avec un autre navigateur."
+  },
+  "videoRecordingError": {
+    "en": "Could not record video on this browser.",
+    "fr": "Impossible d'enregistrer la vidéo sur ce navigateur."
+  },
+  "calorieScanDisclaimer": {
+    "en": "By launching the scan, you agree that the meal photo is sent to the AI service for nutritional analysis. Body photos are never sent.",
+    "fr": "En lançant le scan, vous acceptez que la photo du repas soit transmise au service IA pour estimation nutritionnelle. Une photo du corps n’est jamais envoyée par ce scan."
+  },
+  "retryWithThisPhoto": {
+    "en": "Retry with this photo",
+    "fr": "Réessayer avec cette photo"
+  },
+  "unlockScanPricing": {
+    "en": "Unlock unlimited AI meal scanner at €3.99/month (Meal Scan Option).",
+    "fr": "Débloquez le scanner de repas par IA à 3,99 €/mois (Option Scan Repas)."
+  },
+  "aiIdentifyingIngredients": {
+    "en": "AI identifying ingredients and macronutrients...",
+    "fr": "Identification par IA des ingrédients et des macronutriments..."
+  },
+  "mealIdeasDisclaimer": {
+    "en": "Over ten ideas per meal; portions and calories are indicative, regional dishes may vary. Verify actual values with a healthcare professional if needed.",
+    "fr": "Plus de dix idées par repas ; portions et calories sont indicatives, les plats régionaux peuvent varier. Vérifiez les valeurs réelles et adaptez-les avec un professionnel de santé si nécessaire."
+  },
+  "indicativePortionLabel": {
+    "en": "Indicative portion",
+    "fr": "Portion indicative"
+  },
+  "forQuantityLabel": {
+    "en": "for entered quantity",
+    "fr": "pour la quantité saisie"
+  },
+  "addToMealTitle": {
+    "en": "Add to meal",
+    "fr": "Ajouter au repas"
+  },
+  "photoOfLoggedMeal": {
+    "en": "Photo of logged meal",
+    "fr": "Photo du repas enregistré"
+  },
+  "photoDishForMeal": {
+    "en": "Photograph plate",
+    "fr": "Photographier le plat"
+  },
+  "centerPlateSubtitle": {
+    "en": "Center your plate on screen for instant macronutrient estimation",
+    "fr": "Placez votre assiette au centre de l'écran pour l'évaluation instantanée des macronutriments"
+  },
+  "foodPhotoIllustrativeDesc": {
+    "en": "Real illustrative category photo · indicative portion. Actual dish, recipe and values may vary.",
+    "fr": "Photo réelle illustrative de la catégorie · portion indicative. Le plat, la recette et les valeurs réelles peuvent varier."
+  },
+  "photoSourceCommons": {
+    "en": "Photo source (Wikimedia Commons, CC0)",
+    "fr": "Source de la photo (Wikimedia Commons, CC0)"
+  },
+  "removeFoodItem": {
+    "en": "Remove food item",
+    "fr": "Retirer cet aliment"
+  },
+  "paymentTariffsDesc": {
+    "en": "Monthly rates in euros. Please check the exact amount displayed on Stripe based on your account settings.",
+    "fr": "Tarifs prévus en euros par mois. Vérifiez le montant affiché par Stripe : il dépend du tarif que vous avez configuré dans son tableau de bord."
+  },
+  "paymentStripeTestNotice": {
+    "en": "Stripe test mode: use a test card. No real charge will occur with these links.",
+    "fr": "Mode test Stripe : utilisez une carte de test. Aucun paiement réel ne sera encaissé par ces liens."
+  },
+  "paymentPayOnStripe": {
+    "en": "Pay on Stripe:",
+    "fr": "Payer sur Stripe :"
+  },
+  "paymentPreparingLink": {
+    "en": "Preparing secure link…",
+    "fr": "Préparation du lien sécurisé…"
+  },
+  "paymentCheckoutDisclaimer": {
+    "en": "Test checkout opens in a new tab. AuraSlim never stores any card. Premium activation requires Stripe to redirect back to this app with the session reference.",
+    "fr": "Le checkout de test s'ouvre dans un nouvel onglet. AuraSlim n'enregistre aucune carte. L'activation de Premium exige que chaque lien Stripe redirige après paiement vers cette application avec la référence de session, puis vérification de l'abonnement."
+  },
+  "patternScreenLockDesc": {
+    "en": "Local screen lock. Save and backup your data in settings.",
+    "fr": "Verrouillage local de l'écran. Sauvegardez vos données dans les paramètres."
+  },
+  "loadingLocalData": {
+    "en": "Loading local data…",
+    "fr": "Chargement des données locales…"
+  },
+  "startingWeightLabel": {
+    "en": "Starting weight",
+    "fr": "Poids de départ"
+  },
+  "dayOnePhotoLabel": {
+    "en": "Day 1 Photo",
+    "fr": "Photo Jour 1"
+  },
+  "checkingSubscription": {
+    "en": "Checking subscription…",
+    "fr": "Vérification…"
+  },
+  "remainingPhotosCount": {
+    "en": "remaining",
+    "fr": "restantes"
+  },
+  "frontPhotoRequiredError": {
+    "en": "A front-facing photo is required for before/after comparison.",
+    "fr": "Une photo de face est nécessaire pour la comparaison."
+  },
+  "macroCalories": {
+    "en": "Calories",
+    "fr": "Calories"
+  },
+  "nutritionReportTitle": {
+    "en": "Personal Nutrition Summary",
+    "fr": "Bilan nutritionnel personnel"
+  },
+  "pdfAvailableBadge": {
+    "en": "PDF AVAILABLE",
+    "fr": "PDF DISPONIBLE"
+  },
+  "nutritionReportSubtitle": {
+    "en": "Review your recorded metrics and meals. Estimates do not replace medical advice.",
+    "fr": "Consultez les mesures et repas enregistrés. Les estimations ne constituent pas un avis médical."
+  },
+  "generateNutritionReportPdf": {
+    "en": "Generate Nutritionist PDF Report",
+    "fr": "Générer mon Bilan Nutritionniste (PDF)"
+  },
+  "addAnalyzedPlateToLog": {
+    "en": "Save this meal to my journal",
+    "fr": "Enregistrer ce plat dans mon journal"
+  },
+  "portionLabel": {
+    "en": "Portion",
+    "fr": "Portion"
+  },
+  "scanAiBadge": {
+    "en": "AI Scan",
+    "fr": "Scan IA"
+  },
+  "analyzedDishAlt": {
+    "en": "Analyzed plate",
+    "fr": "Plat analysé"
+  },
+  "ingredientsUncertainNotice": {
+    "en": "Individual ingredient details are uncertain on this photo; only the overall meal was estimated.",
+    "fr": "Le détail de chaque ingrédient est incertain sur cette photo ; seul le repas global a pu être estimé."
+  },
+  "plateScanDisclaimer": {
+    "en": "Quantities and calories inferred from an image remain approximate.",
+    "fr": "Les quantités et calories déduites d’une image restent approximatives."
+  },
+  "macroTargetLabel": {
+    "en": "Target",
+    "fr": "Cible"
+  },
+  "foodsPlural": {
+    "en": "foods",
+    "fr": "aliments"
+  },
+  "foodSingular": {
+    "en": "food",
+    "fr": "aliment"
+  },
+  "cameraHttpsRequired": {
+    "en": "Live camera requires HTTPS and browser permission. Try the phone's native camera or select a photo.",
+    "fr": "La caméra en direct exige HTTPS et l'autorisation du navigateur. Essayez l'appareil photo du téléphone ou sélectionnez une photo."
+  },
+  "cameraUnavailableError": {
+    "en": "Unable to activate live video stream. You can take your photo with the camera button or choose a file.",
+    "fr": "Impossible d'activer le flux vidéo direct. Vous pouvez prendre votre photo instantanément avec l'appareil photo ou sélectionner un fichier."
+  },
+  "cameraActivating": {
+    "en": "Activating camera...",
+    "fr": "Activation de la caméra..."
+  },
+  "cameraDirectAccessTitle": {
+    "en": "Direct Camera Access Available",
+    "fr": "Accès caméra direct disponible"
+  },
+  "cameraDirectAccessDesc": {
+    "en": "Allow camera in your browser, or use your device's native camera capture.",
+    "fr": "Autorisez la caméra dans le navigateur, ou essayez la capture proposée par votre appareil. Sur ordinateur, ce bouton peut ouvrir un sélecteur de fichiers."
+  },
+  "cameraOpenDirectDevice": {
+    "en": "📸 Open Direct Camera",
+    "fr": "📸 Ouvrir mon appareil photo direct"
+  },
+  "cameraRetryStream": {
+    "en": "Retry stream",
+    "fr": "Réessayer flux"
+  },
+  "cameraHowToAuthorize": {
+    "en": "How to allow the camera in your browser?",
+    "fr": "Comment autoriser la caméra dans le navigateur ?"
+  },
+  "cameraHowToAuthorizeStepTitle": {
+    "en": "To allow live video stream:",
+    "fr": "Pour autoriser le flux en direct :"
+  },
+  "cameraHowToAuthorizeStep1": {
+    "en": "1. Click the lock 🔒 on the left of the URL address.",
+    "fr": "1. Cliquez sur le cadenas 🔒 à gauche de l'adresse URL."
+  },
+  "cameraHowToAuthorizeStep2": {
+    "en": "2. Set the Camera permission to Allow.",
+    "fr": "2. Activez l'option Caméra / Appareil photo sur Autoriser."
+  },
+  "cameraHowToAuthorizeStep3": {
+    "en": "3. Click Retry or reload the page.",
+    "fr": "3. Cliquez sur Réessayer ou rechargez la page."
+  },
+  "cameraTimerActive": {
+    "en": "3s Active",
+    "fr": "3s Actif"
+  },
+  "cameraTimer": {
+    "en": "Timer",
+    "fr": "Minuteur"
+  },
+  "cameraFacingBack": {
+    "en": "Rear",
+    "fr": "Arrière"
+  },
+  "cameraFacingFront": {
+    "en": "Front",
+    "fr": "Face"
+  },
+  "cameraTriggerShutter": {
+    "en": "Capture",
+    "fr": "Déclencher"
+  },
+  "cameraDirectNativeTitle": {
+    "en": "Direct Camera",
+    "fr": "Appareil photo direct"
+  },
+  "cameraDirectBadge": {
+    "en": "Direct",
+    "fr": "Direct"
+  },
+  "dragSliderLabel": {
+    "en": "Drag",
+    "fr": "Glisser"
+  },
+  "nutritionMealsLoggedSummary": {
+    "en": "{count} food item(s) logged today. Indicative target: {target} kcal.",
+    "fr": "Sur {count} aliment(s) enregistré(s) aujourd'hui. Objectif indicatif : {target} kcal."
+  },
+  "nutritionHydrationSummary": {
+    "en": "Hydration logged towards {goal} L target.",
+    "fr": "Hydratation notée sur {goal} L souhaités."
+  },
+  "nutritionLatestWeightSummary": {
+    "en": "Latest check-in recorded: {date}.",
+    "fr": "Dernière pesée enregistrée : {date}."
+  },
+  "voiceMeasurementSaved": {
+    "en": "Measurement recorded:",
+    "fr": "Mesure enregistrée :"
+  },
+  "bmiUnderweight": {
+    "en": "Underweight",
+    "fr": "Insuffisance"
+  },
+  "bmiNormal": {
+    "en": "Normal / Ideal",
+    "fr": "Normal / Idéal"
+  },
+  "bmiOverweight": {
+    "en": "Slight overweight",
+    "fr": "Surpoids léger"
+  },
+  "bmiObese": {
+    "en": "Obesity",
+    "fr": "Obésité"
+  },
+  "shareLostWeight": {
+    "en": "I already lost {weight} kg",
+    "fr": "J'ai déjà perdu {weight} kg"
+  },
+  "shareGainedWeight": {
+    "en": "I gained {weight} kg of lean mass",
+    "fr": "J'ai pris {weight} kg de masse"
+  },
+  "shareRegularTracking": {
+    "en": "Consistent progress with my body transformation",
+    "fr": "Suivi régulier de ma transformation"
+  },
+  "shareProgressPrefix": {
+    "en": "My physical transformation on AuraSlim",
+    "fr": "Ma progression physique sur AuraSlim"
+  },
+  "shareProgressSuffix": {
+    "en": "Track your body transformation",
+    "fr": "Visualisez votre transformation"
+  },
+  "clipboardInaccessible": {
+    "en": "Clipboard inaccessible on this device.",
+    "fr": "Presse-papier inaccessible sur cet appareil."
+  },
+  "shareVideoTitle": {
+    "en": "My AuraSlim Physical Progression",
+    "fr": "Ma progression physique AuraSlim"
+  },
+  "shareDirectUnavailable": {
+    "en": "Direct share unavailable. You can use WhatsApp, Viber or copy the link below.",
+    "fr": "Partage direct indisponible. Vous pouvez utiliser WhatsApp, Viber ou copier le lien ci-dessous."
+  },
+  "shareFileUnavailable": {
+    "en": "File sharing unavailable on this device. Use WhatsApp, Viber or copy the link below.",
+    "fr": "Partage de fichiers indisponible sur cet appareil. Utilisez WhatsApp, Viber ou copiez le lien ci-dessous."
+  },
+  "patternConfirmedNotice": {
+    "en": "Pattern confirmed. Remember to export your data regularly.",
+    "fr": "Schéma confirmé. Pensez à exporter vos données régulièrement."
+  },
+  "patternAccepted": {
+    "en": "Pattern accepted.",
+    "fr": "Schéma accepté."
+  },
+  "patternLockoutMessage": {
+    "en": "Too many incorrect attempts. Retry in 30 seconds.",
+    "fr": "Trop de tentatives incorrectes. Réessayez dans 30 secondes."
+  },
+  "patternRegisteredSuccess": {
+    "en": "Pattern confirmed and saved on this device.",
+    "fr": "Schéma confirmé et enregistré sur cet appareil."
+  },
+  "patternSecurityLockoutTitle": {
+    "en": "Security Lock",
+    "fr": "Verrouillage de sécurité"
+  },
+  "patternLockoutCountdownNotice": {
+    "en": "Maximum attempts exceeded. Unlocking in:",
+    "fr": "Nombre maximal de tentatives dépassé. Déverrouillage dans :"
+  },
+  "paymentPrepError": {
+    "en": "Unable to prepare Stripe checkout link for this device. Open AuraSlim from its server.",
+    "fr": "Impossible de préparer le lien Stripe associé à cet appareil. Ouvrez AuraSlim depuis son serveur."
+  },
+  "nativeAppPaymentNotice": {
+    "en": "Native purchases require the in-app purchase system before mobile release.",
+    "fr": "Les achats natifs nécessitent la solution d'achat de la boutique applicable avant publication mobile."
+  },
+  "accountWatchConnectDesc": {
+    "en": "Pair a compatible Bluetooth device to read its battery or heart rate if exposed. Notifications are delivered to the browser; watch delivery depends on phone settings.",
+    "fr": "Associez un appareil Bluetooth compatible pour lire sa batterie ou sa fréquence cardiaque, s'il expose ces données. Les notifications sont envoyées au navigateur ; leur arrivée sur la montre dépend du système du téléphone."
+  },
+  "connectingStatus": {
+    "en": "Connecting…",
+    "fr": "Connexion…"
+  },
+  "accountWatchPairBtn": {
+    "en": "Pair a Bluetooth Device",
+    "fr": "Associer un appareil Bluetooth"
+  },
+  "disconnectBtn": {
+    "en": "Disconnect",
+    "fr": "Déconnecter"
+  },
+  "accountWatchTestBtn": {
+    "en": "Test a reminder on this device",
+    "fr": "Tester un rappel sur cet appareil"
+  },
+  "batteryLabel": {
+    "en": "Battery",
+    "fr": "Batterie"
+  },
+  "heartRateLabel": {
+    "en": "Heart Rate",
+    "fr": "Fréquence cardiaque"
+  }
+}

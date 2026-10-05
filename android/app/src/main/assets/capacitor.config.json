@@ -1,0 +1,10 @@
+{
+	"appId": "com.growfasterwithia.auraslim",
+	"appName": "AuraSlim",
+	"webDir": "dist",
+	"plugins": {
+		"LocalNotifications": {
+			"iconColor": "#F97316"
+		}
+	}
+}

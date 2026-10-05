@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AuraSlim</string>
+    <string name="title_activity_main">AuraSlim</string>
+    <string name="package_name">com.growfasterwithia.auraslim</string>
+    <string name="custom_url_scheme">com.growfasterwithia.auraslim</string>
+</resources>

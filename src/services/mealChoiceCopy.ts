@@ -1,0 +1,35 @@
+// One visible instruction for each of the 30 launch languages. The rest of
+// the interface uses its full dictionary, loaded before a new language is set.
+const copy: Record<string, string> = {
+  fr: 'Choisissez les aliments que vous voulez manger pour ce repas.',
+  en: 'Choose the foods you want to eat for this meal.',
+  es: 'Elige los alimentos que quieres comer en esta comida.',
+  de: 'Wähle die Lebensmittel aus, die du zu dieser Mahlzeit essen möchtest.',
+  it: 'Scegli gli alimenti che vuoi mangiare per questo pasto.',
+  pt: 'Escolha os alimentos que quer comer nesta refeição.',
+  ar: 'اختر الأطعمة التي تريد تناولها في هذه الوجبة.',
+  zh: '选择这餐想吃的食物。',
+  ja: 'この食事で食べたい食べ物を選んでください。',
+  ru: 'Выберите продукты, которые хотите съесть во время этого приёма пищи.',
+  hi: 'इस भोजन में आप जो खाद्य पदार्थ खाना चाहते हैं, उन्हें चुनें।',
+  bn: 'এই খাবারে আপনি যা খেতে চান তা বেছে নিন।',
+  ur: 'اس کھانے کے لیے اپنی پسند کی غذائیں منتخب کریں۔',
+  tr: 'Bu öğünde yemek istediğiniz yiyecekleri seçin.',
+  ko: '이 식사에서 먹고 싶은 음식을 선택하세요.',
+  vi: 'Chọn những thực phẩm bạn muốn ăn trong bữa này.',
+  th: 'เลือกอาหารที่คุณต้องการรับประทานในมื้อนี้',
+  id: 'Pilih makanan yang ingin Anda santap untuk waktu makan ini.',
+  ms: 'Pilih makanan yang anda ingin makan untuk hidangan ini.',
+  sw: 'Chagua vyakula unavyotaka kula katika mlo huu.',
+  nl: 'Kies de voedingsmiddelen die je bij deze maaltijd wilt eten.',
+  pl: 'Wybierz produkty, które chcesz zjeść podczas tego posiłku.',
+  uk: 'Виберіть продукти, які хочете з’їсти під час цього прийому їжі.',
+  ro: 'Alege alimentele pe care vrei să le consumi la această masă.',
+  el: 'Επιλέξτε τα τρόφιμα που θέλετε να φάτε σε αυτό το γεύμα.',
+  cs: 'Vyberte si potraviny, které chcete jíst při tomto jídle.',
+  hu: 'Válaszd ki, milyen ételeket szeretnél enni ennél az étkezésnél.',
+  sv: 'Välj den mat du vill äta till den här måltiden.',
+  fi: 'Valitse ruoat, joita haluat syödä tällä aterialla.',
+  he: 'בחרו את המאכלים שתרצו לאכול בארוחה הזו.'
+};
+export function mealChoiceCopy(language: string) { return copy[language] || copy.en; }

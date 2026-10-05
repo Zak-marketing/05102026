@@ -1,0 +1,2 @@
+const greetings:Record<string,string>={fr:'Bonjour,',en:'Hello,',ar:'مرحباً،',zh:'你好，',es:'Hola,',hi:'नमस्ते,',pt:'Olá,',bn:'নমস্কার,',ru:'Здравствуйте,',ja:'こんにちは、',pa:'ਸਤ ਸ੍ਰੀ ਅਕਾਲ,',de:'Hallo,',jv:'Sugeng rawuh,',ko:'안녕하세요,',te:'నమస్కారం,',vi:'Xin chào,',mr:'नमस्कार,',tr:'Merhaba,',ta:'வணக்கம்,',it:'Ciao,'};
+export function greeting(language:string){return greetings[language.toLowerCase().split('-')[0]]||'';}

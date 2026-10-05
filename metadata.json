@@ -1,0 +1,6 @@
+{
+  "name": "AuraSlim - Suivi de poids et nutrition",
+  "description": "Suivi personnel de poids, d'hydratation, de repas et de photos. Analyse IA des repas lorsque le serveur est configuré.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
